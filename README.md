@@ -8,3 +8,6 @@ Let's find out the answer!
 # Data Soruces
 https://www.football-data.co.uk/   
 https://fbref.com/en/
+
+# Next Step
+Improve the performance of the models to 70% accuracy, 62% now, which is 31 out of 50 games
